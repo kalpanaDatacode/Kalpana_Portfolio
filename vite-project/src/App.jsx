@@ -17,8 +17,8 @@ function App(){
            <Hero/>
            <About/>
            <Services/>
-           <DataScienceAssignment />
-           <Projects/>
+           {/* <DataScienceAssignment />
+           <Projects/> */}
            {/* <Testimonials/> */}
            <Footer/>
         </>

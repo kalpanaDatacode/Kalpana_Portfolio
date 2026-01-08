@@ -1,8 +1,5 @@
-{ 
+{
     "homepage": "https://kalpanaportfolio1.netlify.app/Kalpanas_Portfolio",
-
-
-
     "name": "vite-project",
     "private": true,
     "version": "0.0.0",
@@ -12,7 +9,8 @@
         "build": "vite build",
         "preview": "vite preview",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d dist -f -r https://github.com/kalpanaDatacode/Kalpana_Portfolio.git"
+        "deploy": "gh-pages -d dist -r https://github.com/kalpanaDatacode/Kalpana_Portfolio.git"
+
 
     },
     "dependencies": {
